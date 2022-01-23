@@ -1,0 +1,61 @@
+html{ 
+    background: url(pics/blur1.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    }
+    .loggan{
+      width: 75px;
+      height: 100px;
+      margin: auto;
+      padding-left: 25px;
+      padding-top: 10px;
+      float: left;
+    }
+    div{
+        font-size: 24px;
+        float: left;
+        padding-top: 45px;
+        padding-left: 70px;
+        word-spacing: 50px;
+        
+        }
+    a{
+        font-family:cursive ;
+        text-decoration: none;
+        color: rgb(235, 86, 110);
+    }
+    .hashtag{
+        float: right;
+        font-family:cursive ;
+        font-size: 24px;
+        color: red;
+        padding-top: 15px;
+        padding-right: 20px;
+    }
+    .text1{
+        font-size: 32px;
+        font-family: cursive;
+        
+        border: 2px solid purple;
+        
+    }
+    .text2{
+        font-size: 32px;
+        font-family: cursive;
+        
+        vertical-align: auto;
+        border: 2px solid purple;
+       
+    }
+    .text3{
+        font-size: 32px;
+        font-family: cursive;
+        padding-left: 1300px;
+        vertical-align: auto;
+        border: 2px solid purple;
+        padding-left: 100px;
+    }
+    .//sec1{
+        border: 10px solid powderblue;
+        margin: auto;
+        padding-right: 200px;
+    }

@@ -1,0 +1,14 @@
+
+html{ 
+background: url(pics/image22.png) no-repeat center center fixed; 
+background-size: cover;
+}
+.loggan{
+  width: 75px;
+  height: 100px;
+  margin: auto;
+  padding-left: 25px;
+  padding-top: 10px;
+}
+
+
